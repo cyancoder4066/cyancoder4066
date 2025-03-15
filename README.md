@@ -1,9 +1,9 @@
-## Hi there 👋
 
 <!--
 **cyancoder4066/cyancoder4066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hi 👋, I'm Yokeshwaran M</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
