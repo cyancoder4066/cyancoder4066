@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm a **Freelancer, Full Stack Developer, UI/UX Designer, and Tech Enthusiast** passionate about building innovative projects and contributing to the tech community. I love solving problems, designing engaging UIs, and exploring new technologies.
+I'm a **Freelancer, Full Stack Developer, UI/UX Designer, and Tech Enthusiast** passionate about building innovative projects and contributing to the tech community. I love solving problems, designing engaging UIs, and exploring new technologies. I'm currently learning **DSA**.
 
 ---
 
@@ -30,17 +30,15 @@ I'm a **Freelancer, Full Stack Developer, UI/UX Designer, and Tech Enthusiast** 
 
 ---
 
-## 📊 GitHub Stats & LeetCode:
+## 📊 LeetCode & GitHub Stats:
 
-![Yokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyanCoder4066&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanCoder4066&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=CyanCoder4066&theme=dark)  ![LeetCode Stats](https://leetcard.jacoblin.cool/yokesh_4066?theme=dark&font=Abel)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yokesh_4066?theme=dark&font=Abel) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanCoder4066&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Yokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyanCoder4066&show_icons=true&theme=radical) ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=CyanCoder4066&theme=dark)  
  
 ---
 
 ## 🎵 Spotify Now Playing:
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31a6lhzlymuzzjnblqvkk2j3d32a)
 
 ---
 
@@ -89,18 +87,10 @@ I'm a **Freelancer, Full Stack Developer, UI/UX Designer, and Tech Enthusiast** 
 
 ---
 
-### 📌 Featured Projects:
-- 🛍 [**Online Apparel Retail Order Processing System**](#)
-- 🔥 [**Forest Fire Detection System using IoT**](#)
-- 🌊 [**Hydro Power Plant Dashboard**](#)
-- 🛠 [**Women’s Safety Chatbot**](#)
-
----
-
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube)](https://youtube.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=google-chrome)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/myokeshwaran/)
+[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube)](https://youtube.com/@cyan_coder)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome)](https://your-portfolio-link.com)
 
 💬 Feel free to reach out for collaboration, freelancing, or just a tech chat!
 
