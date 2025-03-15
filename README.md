@@ -19,17 +19,20 @@ I'm a **Freelancer, Full Stack Developer, UI/UX Designer, and Tech Enthusiast** 
 ---
 
 ### 🚀 About Me:
-- 💻 Full Stack Developer | Web Designer | UI/UX Designer                                                    ![LeetCode Stats](https://leetcard.jacoblin.cool/yokesh_4066?theme=dark&font=Abel)
-- 🌱 Currently Student at Sri Sairam Engineering College, Chennai
+- 💻 Full Stack Developer | Web Designer | UI/UX Designer                                                   
+- 🌱 Currently Student at **Sri Sairam Engineering College, Chennai**
 - 🔬 Interested in **AI, Web Development, IoT, and Robotics**
 - 📚 Passionate about **teaching and mentoring students**
 - 🎨 Proficient in **Figma** for UI/UX prototyping
-- working on **Nexus SkillPath**, an edutech initiative
+- 🔭 Startup / Edutech initiative **Nexus SkillPath** - Empowering Learners
 - 🎯 LeetCode **100+ day streak achiever** 🔥
+- ⚡ Fun fact: I know **German** and **Japanese** 
 
 ---
-
-
+### 🔥 LeetCode:
+ ![LeetCode Stats](https://leetcard.jacoblin.cool/yokesh_4066?theme=dark&font=Abel)
+ 
+---
 ### 🔧 Technologies & Tools:
 
 #### 💻 Programming & Development:
@@ -52,6 +55,68 @@ I'm a **Freelancer, Full Stack Developer, UI/UX Designer, and Tech Enthusiast** 
 
 ---
 
+## 📊 GitHub Stats & Badges:
+
+![Yokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyanCoder4066&show_icons=true&theme=radical)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yokesh4066?theme=dark&font=Abel)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanCoder4066&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=CyanCoder4066&theme=dark)
+
+---
+
+## 🎵 Spotify Now Playing:
+
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)
+
+---
+
+## 🛠️ Skills & Technologies:
+
+### 💡 Programming Languages:
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a> 
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
+</p>
+
+### 🌐 Web Technologies:
+<p align="left"> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a>
+</p>
+
+### 🛢️ Databases:
+<p align="left"> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a>
+</p>
+
+### 📱 Mobile App Development:
+<p align="left"> 
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/> </a> 
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/> </a>
+</p>
+
+### 🔬 AI/ML & Computer Vision:
+<p align="left"> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> </a>
+</p>
+
+### 🎨 Design & 3D Modeling:
+<p align="left"> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a> 
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/> </a>
+</p>
+
+---
+
 ### 📌 Featured Projects:
 - 🛍 [**Online Apparel Retail Order Processing System**](#)
 - 🔥 [**Forest Fire Detection System using IoT**](#)
@@ -62,7 +127,7 @@ I'm a **Freelancer, Full Stack Developer, UI/UX Designer, and Tech Enthusiast** 
 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-handle)
+[![Youtube](https://img.shields.io/badge/-Youtube-blue?style=flat-square&logo=Youtube)](https://youtube.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=google-chrome)](https://your-portfolio-link.com)
 
 💬 Feel free to reach out for collaboration, freelancing, or just a tech chat!
