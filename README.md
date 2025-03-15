@@ -90,7 +90,7 @@ I'm a **Freelancer, Full Stack Developer, UI/UX Designer, and Tech Enthusiast** 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/myokeshwaran/)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube)](https://youtube.com/@cyan_coder)
-[![Instagram](https://img.shields.io/badge/-Instagram?style=flat-square&logo=Instagram)](https://www.instagram.com/cyan_coder/)
+[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=flat-square&logo=Instagram)](https://www.instagram.com/cyan_coder/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome)](https://your-portfolio-link.com)
 
 💬 Feel free to reach out for collaboration, freelancing, or just a tech chat!
