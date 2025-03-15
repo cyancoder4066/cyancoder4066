@@ -32,7 +32,8 @@ I'm a **Freelancer, Full Stack Developer, UI/UX Designer, and Tech Enthusiast** 
 
 ## 📊 LeetCode & GitHub Stats:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yokesh_4066?theme=dark&font=Abel) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanCoder4066&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Yokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyanCoder4066&show_icons=true&theme=radical) ![Snake animation](https://github.com/cyancoder4066/cyancoder4066/blob/output/github-contribution-grid-snake.svg)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yokesh_4066?theme=dark&font=Abel) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyanCoder4066&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Yokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CyanCoder4066&show_icons=true&theme=radical)
+![snake gif](https://github.com/cyancoder4066/cyancoder4066/blob/output/github-contribution-grid-snake.gif)
  
 ---
 
@@ -88,7 +89,7 @@ I'm a **Freelancer, Full Stack Developer, UI/UX Designer, and Tech Enthusiast** 
 ---
 
 ### 📫 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/myokeshwaran/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/myokeshwaran/)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube)](https://youtube.com/@cyan_coder)
 [![Instagram](https://img.shields.io/badge/-Instagram-rose?style=flat-square&logo=Instagram)](https://www.instagram.com/cyan_coder/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome)](https://your-portfolio-link.com)
