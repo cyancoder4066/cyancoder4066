@@ -15,7 +15,7 @@ jobs:
       - name: Generate Contribution Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: $cyancoder4066
+          github_user_name: cyancoder4066
           outputs: github-contribution-grid-snake.svg
       
       - name: Push the Generated Snake
