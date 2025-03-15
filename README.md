@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yokeshwaran M</h1>
-<h3 align="center">A passionate developer from India</h3>
 
 <!--
 **cyancoder4066/cyancoder4066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Hi there, I'm Yokesh (aka Cyan Coder) 👋
-
 I'm a **Freelancer, Full Stack Developer, UI/UX Designer, and Tech Enthusiast** passionate about building innovative projects and contributing to the tech community. I love solving problems, designing engaging UIs, and exploring new technologies.
 
 ---
